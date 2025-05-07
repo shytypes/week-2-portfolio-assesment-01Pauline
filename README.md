@@ -17,7 +17,7 @@ Now that you have a portfolio site, your goal for this assignment is to add a **
 - first name
 - second name
 - email
-- message
+-  
 
 > [!CAUTION]
 > Your submission is rendered invalid and you would be given a grade of **zero**
